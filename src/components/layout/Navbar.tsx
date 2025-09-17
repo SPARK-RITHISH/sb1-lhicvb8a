@@ -24,7 +24,7 @@ const Navbar: React.FC<NavbarProps> = ({ toggleSidebar }) => {
             </button>
             <Link to="/" className="flex items-center">
               <img 
-                src="image.png" 
+                src="COLLEGELOGO.JPG" 
                 alt="COLLEGELOGO.JPG" 
                 className="h-12 w-12 mr-3"
               />
