@@ -24,13 +24,13 @@ const Navbar: React.FC<NavbarProps> = ({ toggleSidebar }) => {
             </button>
             <Link to="/" className="flex items-center">
               <img 
-                src="collegelogo.jpg" 
+                src="imageq.png" 
                 alt="College Logo" 
                 className="h-12 w-12 mr-3"
               />
               <div>
                 <span className="self-center text-xl font-semibold sm:text-2xl whitespace-nowrap text-indigo-700">
-                  GASC
+              GASC
                 </span>
                 <span className="block text-sm font-medium text-gray-500">
                   Attendance Management System
