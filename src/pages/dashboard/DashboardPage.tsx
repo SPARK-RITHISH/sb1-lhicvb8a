@@ -142,7 +142,7 @@ const DashboardPage: React.FC = () => {
   return (
     <div className="space-y-6">
       <Section
-        title="Welcome to GACT Attendance Management System"
+        title="Welcome to GASC-TPT Attendance Management System"
         description="Track and manage student attendance efficiently"
       >
         <div className="flex justify-between items-center mb-6">
