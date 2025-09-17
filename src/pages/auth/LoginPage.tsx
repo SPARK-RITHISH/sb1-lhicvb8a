@@ -75,7 +75,7 @@ const LoginPage: React.FC = () => {
             alt="College Logo"
             className="mx-auto h-20 w-20"
           />
-          <h1 className="mt-4 text-3xl font-extrabold text-indigo-700">GACT</h1>
+          <h1 className="mt-4 text-3xl font-extrabold text-indigo-700">GASCTPT</h1>
           <h2 className="mt-2 text-xl font-bold text-gray-800">
             Government Arts and Science College, Tirupattur
           </h2>

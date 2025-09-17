@@ -25,13 +25,12 @@ const Navbar: React.FC<NavbarProps> = ({ toggleSidebar }) => {
             <Link to="/" className="flex items-center">
               <img 
                 src="image.png" 
-                alt="College Logo" 
+                alt="COLLEGELOGO.JPG" 
                 className="h-12 w-12 mr-3"
               />
               <div>
                 <span className="self-center text-xl font-semibold sm:text-2xl whitespace-nowrap text-indigo-700">
-                  GACT
-                </span>
+                GASC-TIRUPATTUR</span>
                 <span className="block text-sm font-medium text-gray-500">
                   Attendance Management System
                 </span>
