@@ -72,7 +72,6 @@ const LoginPage: React.FC = () => {
         <div className="text-center">
           <img 
             src="image.png"
-            alt="College Logo"
             className="mx-auto h-20 w-20"
           />
           <h1 className="mt-4 text-3xl font-extrabold text-indigo-700">GASCTPT</h1>
