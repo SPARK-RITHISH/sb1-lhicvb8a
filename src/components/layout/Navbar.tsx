@@ -23,11 +23,8 @@ const Navbar: React.FC<NavbarProps> = ({ toggleSidebar }) => {
               <Menu size={24} />
             </button>
             <Link to="/" className="flex items-center">
-              <img 
-                src="collegelogo.jpg" 
-                alt="COLLEGELOGO.JPG" 
-                className="h-12 w-12 mr-3"
-              />
+             
+              
               <div>
                 <span className="self-center text-xl font-semibold sm:text-2xl whitespace-nowrap text-indigo-700">
                 GASC--TIRUPATTUR</span>
